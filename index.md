@@ -5,7 +5,7 @@
 
 ___This is a page of my personal description.___
 
-### ___Personal Information
+### ___Personal Information___
 
 #### Name
 **Wang Pei**
@@ -18,7 +18,7 @@ ___This is a page of my personal description.___
 #### Role
 **Undergraduate**
 
-### ___Contact
+### ___Contact___
 
 #### Phone Number
 **13770316121
