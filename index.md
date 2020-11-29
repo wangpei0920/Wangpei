@@ -1,6 +1,6 @@
 # Wangprei's Page
 
-![RUNOOB 图标](http://static.runoob.com/images/runoob-logo.png "RUNOOB")
+![RUNOOB 图标](https://wx2.sinaimg.cn/mw690/6fa6f4e3ly1gkxypnk8aej20u01hcu0x.jpg "RUNOOB")
 ## ___Welcome to My Pages!___
 
 ___This is a page of my personal description.___
