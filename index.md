@@ -8,7 +8,6 @@ ___This is a page of my personal description.___
 ![RUNOOB 图标](https://wxt.sinaimg.cn/thumb300/6fa6f4e3ly1gktct7temij23g62pge82.jpg?tags=%5B%5D "RUNOOB")
 ![RUNOOB 图标](https://wxt.sinaimg.cn/thumb300/6fa6f4e3ly1gktcta4kmmj25eu3qv1kz.jpg?tags=%5B%5D "RUNOOB")
 
-___This is a page of my personal description.___
 
 ### ___Personal Information___
 
