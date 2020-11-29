@@ -1,6 +1,6 @@
-# **Wangprei's Page**
+# **Wangpei's Page**
 
-## ___Welcome to My Pages!___
+## ___Welcome to My Page！___
 
 ___This is a page of my personal description.___
 
